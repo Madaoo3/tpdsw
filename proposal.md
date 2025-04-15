@@ -2,7 +2,10 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* Fracassi santiago-49953
+* Carlos Maximo Chocobar-50968
+* Agustin España-52221
+* Tarantola Federico-47340
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -11,7 +14,15 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+ZoocialPet es una red social dedicada exclusivamente a animales. La plataforma ofrecerá un espacio único para compartir momentos, conocer nuevos amigos, y conectar con una comunidad salvaje!!
+
+Objetivos:
+
+Permitir a los animales crear su perfil.
+
+Acceder a los mensajes de otras personas en forma de cascada decendente donde podria compartirlos, darle likes o comentarlos.
+
+Promover la interacción, el entretenimiento y la diversion!!
 
 ### Modelo
 ![imagen del modelo]()
